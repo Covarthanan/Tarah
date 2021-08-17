@@ -1,2 +1,2 @@
 # Tarah
-Writing Poems and Quotes , My First React Native Application.
+This Application Used for Writing Poems and Quotes and also share via any platforms , My First React Native Application.
